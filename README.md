@@ -47,13 +47,22 @@ Télécharger le projet depuis GitHub :
 git clone https://github.com/KYS-Projects/Minuteur-Python.git
 
 2. Accéder au dossier du projet
+   
 cd Minuteur-Python
-3. Installer les dépendances
+
+4. Installer les dépendances
 Installer les bibliothèques nécessaires :
+
 pip install -r requirements.txt
+
 Lancer l'application
+
 Pour démarrer l'application, exécuter la commande suivante dans le terminal :
+
 python main.py
+
 Une fenêtre graphique du minuteur s’ouvrira et vous pourrez configurer la durée du compte à rebours.
 
+Image
+<img width="1352" height="942" alt="Capture d&#39;écran 2026-03-10 143415" src="https://github.com/user-attachments/assets/695f4fbf-5ed0-449a-9d87-96eab9330687" />
 
