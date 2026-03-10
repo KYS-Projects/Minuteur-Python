@@ -63,6 +63,5 @@ python main.py
 
 Une fenêtre graphique du minuteur s’ouvrira et vous pourrez configurer la durée du compte à rebours.
 
-Image
 <img width="1352" height="942" alt="Capture d&#39;écran 2026-03-10 143415" src="https://github.com/user-attachments/assets/695f4fbf-5ed0-449a-9d87-96eab9330687" />
 
