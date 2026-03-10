@@ -21,7 +21,7 @@ Le programme permet de configurer un **compte à rebours en heures, minutes et s
 ## Technologies utilisées
 
 - **Python**
-- **Pygame** (bibliothèque pour créer des applications graphiques et gérer les événements)
+- **Pygame** (bibliothèque pour créer des applications graphiques)
 
 ## Environnement requis
 
